@@ -13,3 +13,27 @@ clone - 서버에서 폴더째 받을때
 
 
 
+
+acorn@acorn-PC MINGW64 /c/myproject1
+$ git inti
+$ git add .
+
+$ git status
+
+$ git commit -m "첫번재커밋입니다"
+
+$ git remote add origin https://github.com/jj2hh12/Gitproject1.git
+
+$ git pull origin master
+
+
+
+$ git branch
+
+$ git checkout sub1
+
+$ git commit -m "sub1 추가작업"
+
+$ git checkout master
+
+
