@@ -1,0 +1,15 @@
+git init - .git 생성
+
+working directory - 개발중
+	add
+stage(index)
+	commit
+local repository - 최종
+
+
+push - 서버에 올릴때
+pull - 서버에서 받을때
+clone - 서버에서 폴더째 받을때
+
+
+
