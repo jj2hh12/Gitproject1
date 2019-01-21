@@ -1,4 +1,4 @@
-git init - .git 생성
+﻿git init - .git 생성
 
 working directory - 개발중
 	add
@@ -37,3 +37,4 @@ $ git commit -m "sub1 추가작업"
 $ git checkout master
 
 
+sub2 브랜치에서 작업한 내용211

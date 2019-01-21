@@ -1,4 +1,4 @@
-git init - .git 생성
+﻿git init - .git 생성
 
 working directory - 개발중
 	add
@@ -12,4 +12,4 @@ pull - 서버에서 받을때
 clone - 서버에서 폴더째 받을때
 
 
-
+sub2 브랜치에서 작업한 내용
